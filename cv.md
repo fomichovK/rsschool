@@ -2,11 +2,15 @@
 
 ## Personal Info:
 
-**City:** Ukrain, Kharkov region</n>
-**Phone:** +380(068) 61 00 018, +38(066) 425 22 23</n>
-**Skype:** zloi_kot</n>
-**E-mail:** fomichkostja@gmail.com</n>
-**[Linkedin] (https://www.linkedin.com/in/константин-фомичев-33b51a180)**
+**City:** Ukrain, Kharkov region  
+**Phone:** +380(068) 61 00 018, +38(066) 425 22 23  
+**Skype:** zloi_kot  
+**E-mail:** fomichkostja@gmail.com  
+[Linkedin](https://www.linkedin.com/in/константин-фомичев-33b51a180)
+
+## About my self
+
+    I am purposeful, diligent, result-oriented :)
 
 ## Skills:
 
