@@ -2,11 +2,11 @@
 
 ## Personal Info:
 
-**City:** Ukrain, Kharkov region
-**Phone:** +380(068) 61 00 018, +38(066) 425 22 23
-**Skype:** zloi_kot
-**E-mail:** fomichkostja@gmail.com
-**Linkedin:** https://www.linkedin.com/in/константин-фомичев-33b51a180
+**City:** Ukrain, Kharkov region</n>
+**Phone:** +380(068) 61 00 018, +38(066) 425 22 23</n>
+**Skype:** zloi_kot</n>
+**E-mail:** fomichkostja@gmail.com</n>
+**[Linkedin] (https://www.linkedin.com/in/константин-фомичев-33b51a180)**
 
 ## Skills:
 
@@ -41,7 +41,7 @@ _11.2017_ IT-School “Ukranian IT Scool”, Kharkov
 
 _Pet project online store. Used technologies:React, Redux toolkit, Type Script (at the development stage)._
 
-https://pizza-fomichovk.vercel.app/
+https://pizza-fomichovk.vercel.app/</n>
 https://github.com/fomichovK/react-pizza
 
 _Landing page. Used technologies: HTML, Css (FlexBox, Bootstrap …), Java Script._
@@ -69,3 +69,18 @@ https://fomichovk.github.io/limos/
 2016 - 2018 LLC "Sklovolokno", the position of "shift master"
 
 2008 - 2015 LLC "Merefa glass company", the position of "glassmaker"
+
+**CodeWars Code**
+
+**DESCRIPTION:**
+In this simple exercise, you will create a program that will take two lists of integers, a and b. Each list will consist of 3 positive integers above 0, representing the dimensions of cuboids a and b. You must find the difference of the cuboids' volumes regardless of which is bigger.
+
+For example, if the parameters passed are ([2, 2, 3], [5, 4, 1]), the volume of a is 12 and the volume of b is 20. Therefore, the function should return 8.
+
+```function findDifference(a, b) {
+
+  let as = a.reduce((a,b)=>a*b);</n>
+    let bs = b.reduce((a,b)=>a*b);</n>
+    return Math.abs(as-bs);</n>
+}
+```
